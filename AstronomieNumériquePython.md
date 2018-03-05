@@ -1,4 +1,2 @@
 # Les Ateliers d'astronomie numérique avec Python.
-## Python eco-system
-## AstronomieNumériquePython
-## AstronomieDataSciencePython
+Les packages: astropy,skyfield,astroplan,astrodynamics et poliastro.
