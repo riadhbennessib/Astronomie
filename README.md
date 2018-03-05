@@ -1,2 +1,1 @@
-# Astronomie
-Astronomie numérique
+# Astronomie numérique
