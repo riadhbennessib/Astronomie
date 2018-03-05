@@ -1,2 +1,2 @@
 # Astronomie
-Astronomie pour tous
+Astronomie numérique
