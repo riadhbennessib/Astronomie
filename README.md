@@ -1,1 +1,1 @@
-# Astronomie numérique
+# Astronomie numérique avec Python
